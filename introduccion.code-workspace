@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "boot camp/introduccion"
+		},
+		{
+			"path": "boot camp/trabajos boot camp"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "trabajos boot camp"
+	}
+}
